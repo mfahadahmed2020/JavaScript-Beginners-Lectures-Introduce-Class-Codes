@@ -1,2 +1,13 @@
 # JavaSdript-Beginners-Lectures-Introduce-Class-Codes
-Governer Sindh By Knowledge &amp; Learning
+
+JavaScript - Road To Expert - Web Developer
+
+class 01 Lecture 01 JavaScript - Beginners 
+
+class 02 Lecture 02 JavaScript - Beginners
+
+Class 03 Lecture 03 JavaScript - ROAD TO BECOME EXPERT
+
+GOVERNER SINDH IT COURSE
+
+KNOWLEDGE & LEARNING
